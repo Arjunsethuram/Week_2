@@ -1,4 +1,4 @@
-Moving Ball
-step to Run the project
-step 1:Refresh the page to run the project.
-In this project create one ball and make that ball to move. 
+Towers Of Hanoi
+Steps to run the project
+Step 1: Click the "Make Move" button to start the project
+IN this project create the towers of hanoi puzzel and solve it.
